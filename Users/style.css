@@ -1,6 +1,5 @@
-body {
-    background-color: blue;
-}
+body {background: radial-gradient(rgb(0, 21, 255), rgb(0, 251, 255)); }
+
 
 .wrapper{
       height: 200px;
